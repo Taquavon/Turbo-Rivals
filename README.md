@@ -1,5 +1,5 @@
 # Turbo-Rivals
-un jeu de course en 2D
+un jeu de course en 3D
 ## Patrons de conception
 ### Factory Method
 Utilisé pour créer des instances de véhicules et d'objets spéciaux sans spécifier leur classe exacte, facilitant l'extension et la maintenance du code.
